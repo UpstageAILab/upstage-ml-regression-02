@@ -5,8 +5,8 @@
 
 | ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김준호](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: |:-------------------------------------------------------------:| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [김준호](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                             담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|            [진성준](https://github.com/UpstageAILab)             |            [김준호](https://github.com/UpstageAILab)             |            [김하연](https://github.com/UpstageAILab)             |            [송현지](https://github.com/UpstageAILab)             |            [엄효범](https://github.com/UpstageAILab)             |            [정다슬](https://github.com/UpstageAILab)             |
+|                            팀장, 담당 역할                             |                             담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 1. Competiton Info
 
