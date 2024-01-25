@@ -3,6 +3,9 @@
 ._code
 code
 baseline_code.ipynb
-<<<<<<< HEAD
 input
 data
+*.csv
+docs/
+*.pkl
+
