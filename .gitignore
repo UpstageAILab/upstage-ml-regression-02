@@ -6,6 +6,5 @@ baseline_code.ipynb
 input
 data
 *.csv
-docs/
 *.pkl
 
