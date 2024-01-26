@@ -65,7 +65,6 @@
 
 - _Insert your presentaion file(pdf) link_
 
-## etc
 
 ### Meeting Log
 
@@ -75,7 +74,7 @@
 
 ### Reference
 
-- (https://www.ejrea.org/archive/view_article?doi=10.30902/jrea.2020.6.1.19)https://www.ejrea.org/archive/view_article?doi=10.30902/jrea.2020.6.1.19
-- (http://www.gisdeveloper.co.kr/?p=11030)http://www.gisdeveloper.co.kr/?p=11030
-- (https://cafe.naver.com/we2you/6167)https://cafe.naver.com/we2you/6167
-- (https://www.bok.or.kr/portal/singl/baseRate/list.do?dataSeCd=01&menuNo=200643)https://www.bok.or.kr/portal/singl/baseRate/list.do?dataSeCd=01&menuNo=200643
+- 부동산분석 학술지(https://www.ejrea.org/archive/view_article?doi=10.30902/jrea.2020.6.1.19)https://www.ejrea.org/archive/view_article?doi=10.30902/jrea.2020.6.1.19
+- 공간정보시스템 지오서비스(http://www.gisdeveloper.co.kr/?p=11030)http://www.gisdeveloper.co.kr/?p=11030
+- 서울시 고교 국어수학 백분위 평균(https://cafe.naver.com/we2you/6167)https://cafe.naver.com/we2you/6167
+- 한국은행 기준금리(https://www.bok.or.kr/portal/singl/baseRate/list.do?dataSeCd=01&menuNo=200643)https://www.bok.or.kr/portal/singl/baseRate/list.do?dataSeCd=01&menuNo=200643
