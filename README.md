@@ -69,9 +69,15 @@
 3. **3개 학교의 거리 평균**
 4. **3개 학교의 백분위 평균**
 
-### 한국은행 기준금리 변수
-- ### 위경도 좌표를 3차원으로 변환
-- 
+  ### 한국은행 기준금리 변수
+  
+-Feature Engineering
+  ### 위경도 좌표를 3차원으로 변환
+  ### Cyclical Feature
+  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/288ceb60-e30f-4e45-834e-f965d44cc5d5)
+  ### Categorical Feature
+  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/ca219c8b-db75-4d1d-b4aa-cef657f81369)
+
 
 ## 4. Modeling
 
