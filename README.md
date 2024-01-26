@@ -57,8 +57,9 @@
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
+![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/358f9458-329a-4139-8de1-82bc4e77da82)
+
+- 4위 88064.8558
 
 ### Presentation
 
@@ -68,7 +69,9 @@
 
 ### Meeting Log
 
-- _Insert your meeting log link like Notion or Google Docs_
+![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/e6873ad6-f38d-4bc0-b7de-46197dab4c0a)
+
+- 대회 마지막 주간은 데일리 미팅 진행
 
 ### Reference
 
