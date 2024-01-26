@@ -87,7 +87,7 @@
 
 ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/c2a8da92-1d4b-4f2e-a630-e8156fbd3e4c)
 
-- 성능이 가장 잘 나오는데 LGBM 모델 선택
+- 성능이 가장 잘 나오는 LGBM 모델 선택
 
 ### Modeling Process
 
