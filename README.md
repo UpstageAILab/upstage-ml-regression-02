@@ -56,9 +56,9 @@
   ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/96f90362-ee76-4fe2-8180-de61e210efe5)  
   ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/6665efcf-5a36-4d1c-a377-86f76c36cbcf)
 
-- Outliers
-  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/983057bc-eaf2-420b-b81c-be7007c40d5b)
-  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/bc9f1df5-d997-4705-b0a5-b61aceaecb60)
+- Outliers  
+  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/983057bc-eaf2-420b-b81c-be7007c40d5b)  
+  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/bc9f1df5-d997-4705-b0a5-b61aceaecb60)  
 
 ### Feature engineering
 
