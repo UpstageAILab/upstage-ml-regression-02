@@ -50,10 +50,10 @@
 
 ### EDA
 
-- Missing Values
+- Missing Values  
   연속형 변수의 경우에는 선형보간(Linear interpolation)으로 대체하겠습니다.  
   범주형 변수의 경우에는 'NULL' 이라는 임의의 범주로 대체해주도록 하겠습니다.  
-  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/96f90362-ee76-4fe2-8180-de61e210efe5)
+  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/96f90362-ee76-4fe2-8180-de61e210efe5)  
   ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/6665efcf-5a36-4d1c-a377-86f76c36cbcf)
 
 - Outliers
