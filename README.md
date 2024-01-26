@@ -75,4 +75,7 @@
 
 ### Reference
 
-- _Insert related reference_
+- (https://www.ejrea.org/archive/view_article?doi=10.30902/jrea.2020.6.1.19)https://www.ejrea.org/archive/view_article?doi=10.30902/jrea.2020.6.1.19
+- (http://www.gisdeveloper.co.kr/?p=11030)http://www.gisdeveloper.co.kr/?p=11030
+- (https://cafe.naver.com/we2you/6167)https://cafe.naver.com/we2you/6167
+- (https://www.bok.or.kr/portal/singl/baseRate/list.do?dataSeCd=01&menuNo=200643)https://www.bok.or.kr/portal/singl/baseRate/list.do?dataSeCd=01&menuNo=200643
