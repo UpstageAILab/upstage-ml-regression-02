@@ -50,7 +50,15 @@
 
 ### EDA
 
-- _Describe your EDA process and step-by-step conclusion_
+- Missing Values
+  연속형 변수의 경우에는 선형보간(Linear interpolation)으로 대체하겠습니다.
+  범주형 변수의 경우에는 'NULL' 이라는 임의의 범주로 대체해주도록 하겠습니다.
+  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/96f90362-ee76-4fe2-8180-de61e210efe5)
+  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/6665efcf-5a36-4d1c-a377-86f76c36cbcf)
+
+- Outliers
+  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/983057bc-eaf2-420b-b81c-be7007c40d5b)
+  ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/bc9f1df5-d997-4705-b0a5-b61aceaecb60)
 
 ### Feature engineering
 
@@ -82,7 +90,6 @@
 ### Meeting Log
 
 ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/e6873ad6-f38d-4bc0-b7de-46197dab4c0a)
-
 - 대회 마지막 주간은 데일리 미팅 진행
 
 ### Reference
