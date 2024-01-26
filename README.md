@@ -24,6 +24,9 @@
 - RMSE
 
 ## 2. Components
+
+### Directory
+
 |-- Miniconda3-latest-Linux-x86_64.sh <br>
 |-- bus_feature.csv <br>
 |-- code <br>
@@ -38,11 +41,6 @@
 |-- subway_feature.csv <br>
 |-- test.csv <br>
 `-- train.csv <br>
-
-
-### Directory
-
-- _Insert your directory structure_
 
 ## 3. Data descrption
 
