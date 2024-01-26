@@ -24,20 +24,21 @@
 - RMSE
 
 ## 2. Components
-|-- Miniconda3-latest-Linux-x86_64.sh
-|-- bus_feature.csv
-|-- code
-|   |-- baseline_code.ipynb
-|   |-- highschoolscore_done.csv
-|   |-- outliers_done.csv
-|   |-- requirements.txt
-|   `-- saved_model.pkl
-|-- code.tar
-|-- data.tar
-|-- sample_submission.csv
-|-- subway_feature.csv
-|-- test.csv
-`-- train.csv
+|-- Miniconda3-latest-Linux-x86_64.sh <br>
+|-- bus_feature.csv <br>
+|-- code <br>
+|   |-- baseline_code.ipynb <br>
+|   |-- highschoolscore_done.csv <br>
+|   |-- outliers_done.csv <br>
+|   |-- requirements.txt <br>
+|   `-- saved_model.pkl <br>
+|-- code.tar <br>
+|-- data.tar <br>
+|-- sample_submission.csv <br>
+|-- subway_feature.csv <br>
+|-- test.csv <br>
+`-- train.csv <br>
+
 
 ### Directory
 
