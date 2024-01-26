@@ -71,7 +71,7 @@
 
 ### 한국은행 기준금리 변수
   
--Feature Engineering
+- Feature Engineering
   ### 위경도 좌표를 3차원으로 변환
   ### Cyclical Feature
   ![image](https://github.com/UpstageAILab/upstage-ml-regression-02/assets/106041730/288ceb60-e30f-4e45-834e-f965d44cc5d5)
